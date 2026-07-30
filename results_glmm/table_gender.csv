@@ -1,0 +1,25 @@
+Dataset,Marker,Predictor,IRR,95% CI,p,p (FDR),Sig (FDR)
+eitea,ma_ei_tea_particle,Interlocutor's gender,1.267,"[0.85, 1.889]",0.2444,0.4824,
+eitea,ma_ei_tea_particle,Speaker's gender,1.007,"[0.672, 1.509]",0.9732,0.9974,
+intensifiers,intensifiers,Interlocutor's gender,0.888,"[0.8, 0.986]",0.026,0.1417,
+intensifiers,intensifiers,Speaker's gender,0.873,"[0.772, 0.987]",0.0305,0.0916,.
+kp_markers,cpts,Interlocutor's gender,1.094,"[0.836, 1.431]",0.5118,0.6141,
+kp_markers,cpts,Speaker's gender,0.891,"[0.682, 1.166]",0.401,0.6112,
+particles,obscene_particles,Interlocutor's gender,2.955,"[1.077, 8.11]",0.0354,0.1417,
+particles,polite_words,Interlocutor's gender,1.511,"[0.713, 3.2]",0.2814,0.4824,
+particles,certainty,Interlocutor's gender,0.981,"[0.85, 1.133]",0.7941,0.7941,
+particles,probability,Interlocutor's gender,0.974,"[0.814, 1.166]",0.7762,0.7941,
+particles,approximation,Interlocutor's gender,0.863,"[0.768, 0.971]",0.014,0.1417,
+particles,evaluation,Interlocutor's gender,0.805,"[0.458, 1.414]",0.4507,0.6009,
+particles,religious_particles,Interlocutor's gender,0.738,"[0.457, 1.191]",0.213,0.4824,
+particles,obscene_particles,Speaker's gender,9.797,"[3.204, 29.957]",1e-4,8e-4,***
+particles,approximation,Speaker's gender,1.006,"[0.896, 1.13]",0.9214,0.9974,
+particles,evaluation,Speaker's gender,0.999,"[0.577, 1.731]",0.9974,0.9974,
+particles,certainty,Speaker's gender,0.996,"[0.856, 1.158]",0.9543,0.9974,
+particles,probability,Speaker's gender,0.923,"[0.764, 1.116]",0.4075,0.6112,
+particles,polite_words,Speaker's gender,0.536,"[0.243, 1.18]",0.1212,0.2425,
+particles,religious_particles,Speaker's gender,0.445,"[0.273, 0.726]",0.0012,0.0071,**
+pronouns,pronouns,Interlocutor's gender,1.183,"[0.999, 1.4]",0.0509,0.1526,
+pronouns,pronouns,Speaker's gender,0.792,"[0.662, 0.948]",0.0109,0.0434,*
+reflexives,reflexives,Interlocutor's gender,1.072,"[0.925, 1.242]",0.3553,0.5329,
+reflexives,reflexives,Speaker's gender,0.884,"[0.764, 1.024]",0.0998,0.2395,
