@@ -4,17 +4,6 @@
 This repository contains the data, scripts, and analysis results for the paper:
 
 > **Gender-Related Variation in Spoken Estonian: A Corpus-Based Study of Pragmatic and Discourse Markers**
-
----
-
-## Abstract
-
-The absence of grammatical gender in Estonian has often led to the assumption that gender plays a limited role in language use. This study examines potentially gender-related lexical variation in spoken Estonian and whether patterns reported for other languages also appear there.
-
-The analysis is based on 90 dialogues from the *Phonetic Corpus of Estonian Spontaneous Speech*, involving 150 speakers, and examines pragmatic and discourse markers using mixed-effects regression models and a keyness analysis of individual lemmas.
-
-Only a few gender-related differences between men and women were found. After correction for multiple comparisons, significant differences emerged only for obscene and religious particles and for first- and second-person pronouns: men used obscene particles more, while women preferred religious particles and personal pronouns. The keyness analysis further revealed gender-related preferences at the level of individual lemmas, including response tokens and expressive items, not detectable through aggregated categories. Gender-related variation thus persists despite the absence of grammatical gender.
-
 ---
 
 # Repository structure
@@ -173,4 +162,4 @@ If you use this repository, please cite:
 
 Please also cite the corpus:
 
-> Lippus, P., Aare, K., Malmi, A., Tuisk, T., & Teras, P. (2023). *Phonetic Corpus of Estonian Spontaneous Speech v1.3*. University of Tartu. https://doi.org/10.23673/RE-438
+> Lippus, Pärtel; Aare, Kätlin; Malmi, Anton; Tuisk, Tuuli; Teras, Pire, 2023, "Phonetic Corpus of Estonian Spontaneous Speech v1.3", https://doi.org/10.23673/RE-438
