@@ -1,0 +1,27 @@
+gender,marker,marker_label,n_observations,total_tokens,zero_observations,word_tokens,per_10000_words
+0,eitea,Epistemic markers (ma ei tea and ei tea),99,110,45,253493,4.339370317918049
+1,eitea,Epistemic markers (ma ei tea and ei tea),81,96,35,224825,4.269987768264206
+0,intensifiers,Intensifiers,99,1691,0,253493,66.707956432722
+1,intensifiers,Intensifiers,81,1361,1,224825,60.53597242299567
+0,kp_markers,CTPs (complement-taking predicate markers),99,483,15,253493,19.053780577767434
+1,kp_markers,CTPs (complement-taking predicate markers),81,416,15,224825,18.50328032914489
+0,polite_words,Polite words,99,50,70,253493,1.9724410535991133
+1,polite_words,Polite words,81,27,61,224825,1.200934059824308
+0,jumal,Religious particles,99,243,39,253493,9.58606352049169
+1,jumal,Religious particles,81,91,51,224825,4.047592572000445
+0,kurat,Obscene particles,99,16,93,253493,0.6311811371517162
+1,kurat,Obscene particles,81,159,51,224825,7.072167241187591
+0,evaluation,Evaluation,99,56,66,253493,2.209133980031007
+1,evaluation,Evaluation,81,52,54,224825,2.312910041143111
+0,certainty,Certainty/confirmation,99,1748,2,253493,68.956539233825
+1,certainty,Certainty/confirmation,81,1619,1,224825,72.01156455020572
+0,probability,Probability/possibility,99,1016,4,253493,40.08000220913398
+1,probability,Probability/possibility,81,851,1,224825,37.851662404092075
+0,approximation,Hedging/approximation,99,2043,1,253493,80.59394145005977
+1,approximation,Hedging/approximation,81,1822,1,224825,81.0408095185144
+0,pronouns_1face,First-person personal pronouns,99,10734,0,253493,423.4436453866576
+1,pronouns_1face,First-person personal pronouns,81,8000,0,224825,355.8323140220171
+0,pronouns_2face,Second-person personal pronouns,99,3698,0,253493,145.8817403241904
+1,pronouns_2face,Second-person personal pronouns,81,2586,0,224825,115.02279550761705
+0,reflexives,Reflexives,99,1366,2,253493,53.887089584327775
+1,reflexives,Reflexives,81,987,0,224825,43.90081174246636

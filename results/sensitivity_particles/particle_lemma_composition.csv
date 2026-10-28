@@ -1,0 +1,15 @@
+category,gender,lemma,tokens,category_hits
+obscene,0,kurat,11,11
+obscene,0,sitt,3,3
+obscene,0,raisk,1,1
+obscene,0,pask,1,1
+obscene,1,kurat,148,148
+obscene,1,sitt,10,10
+obscene,1,pask,1,1
+religious,0,jumal,121,121
+religious,0,issand,111,111
+religious,0,issakene,7,7
+religious,0,jeerum,3,3
+religious,0,issake,1,1
+religious,1,jumal,69,69
+religious,1,issand,22,22

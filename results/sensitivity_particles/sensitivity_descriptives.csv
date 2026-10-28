@@ -1,0 +1,3 @@
+gender,n_obs,words,jumal_original,jumal_without_issand,kurat_original,kurat_without_kurat,zeros_jumal_original,zeros_jumal_without_issand,zeros_kurat_original,zeros_kurat_without_kurat
+0,99,253493,243,132,16,5,39,55,93,96
+1,81,224825,91,69,159,11,51,52,51,72

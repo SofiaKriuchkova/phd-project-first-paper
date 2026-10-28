@@ -1,0 +1,14 @@
+marker,marker_label,selected_model,selected_family,selected_reason,full_model_usable,review_required
+eitea,Epistemic markers (ma ei tea and ei tea),m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+intensifiers,Intensifiers,m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+kp_markers,CTPs (complement-taking predicate markers),m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+polite_words,Polite words,m2_reduced,NB2,Full NB2 M2 failed diagnostics; reduced NB2 M2 selected,FALSE,TRUE
+jumal,Religious particles,m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+kurat,Obscene particles,m2_full,Poisson,Full Poisson M2 passed convergence/Hessian; NB2 dispersion/Hessian instability,TRUE,FALSE
+evaluation,Evaluation,m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+certainty,Certainty/confirmation,m2_reduced,NB2,Full NB2 M2 failed diagnostics; reduced NB2 M2 selected,FALSE,TRUE
+probability,Probability/possibility,m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+approximation,Hedging/approximation,m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+pronouns_1face,First-person personal pronouns,m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+pronouns_2face,Second-person personal pronouns,m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE
+reflexives,Reflexives,m2_full,NB2,Full NB2 M2 passed diagnostics,TRUE,FALSE

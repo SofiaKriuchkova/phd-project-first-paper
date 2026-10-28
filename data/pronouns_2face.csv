@@ -1,4 +1,4 @@
-dialogue,ID,conditions,gender,year,age,education,age_diff,second_speaker_gender,speaker_word_count,pronouns
+dialogue,ID,conditions,gender,year,age,education,age_diff,second_speaker_gender,speaker_word_count,pronouns_2face
 042,124_N,0,0,2015,78,kõrg,36,0,5519,28
 030,094_M,0,1,2013,26,kõrg,4,1,2303,28
 009,001_N,0,0,2006,36,kõrg,14,1,389,7

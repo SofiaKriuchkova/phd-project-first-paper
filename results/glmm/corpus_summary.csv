@@ -1,0 +1,2 @@
+n_observations,n_dialogues,n_speakers,speakers_in_multiple_dialogues,word_tokens,mean_words_per_observation,median_words_per_observation,min_words_per_observation,max_words_per_observation
+180,90,150,16,478318,2657.3222222222225,2531.5,79,7113
