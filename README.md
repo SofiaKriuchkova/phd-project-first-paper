@@ -106,3 +106,7 @@ To assess reproducibility, begin with the documented marker definitions and the 
 ## Data source and availability
 
 The original recordings, transcriptions, and annotations belong to the **Phonetic Corpus of Estonian Spontaneous Speech** (Lippus et al. 2023). Availability and redistribution of corpus-derived materials are subject to the corpus provider's access conditions. This repository does not grant independent permission to redistribute restricted corpus content.
+
+## Corpus citation
+
+Lippus, Pärtel, Kätlin Aare, Anton Malmi, Tuuli Tuisk & Pire Teras. 2023. *Phonetic Corpus of Estonian Spontaneous Speech v1.3*. Institute of Estonian and General Linguistics, University of Tartu. https://doi.org/10.23673/re-438
